@@ -1,4 +1,4 @@
-#jänesevanemate mure
+# 3.2 Jänesevanemate mure
 ring = int(input("Sisestage ringide arv: "))
 porgand = 0
 porgandeid = []
